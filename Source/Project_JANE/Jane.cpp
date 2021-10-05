@@ -18,6 +18,7 @@ void AJane::BeginPlay()
 	
 }
 
+
 // Called every frame
 void AJane::Tick(float DeltaTime)
 {
@@ -25,3 +26,7 @@ void AJane::Tick(float DeltaTime)
 
 }
 
+FHitResult AJane::instantLight()
+{
+	return FHitResult();
+}
