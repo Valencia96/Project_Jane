@@ -75,3 +75,5 @@ DerivedDataCache/*
 Project_JANE.uproject
 Project_JANE.uproject
 *.uproject
+blender_redo/human_model_A.fbx
+Content/GameModels/Jane_Model/human_model_A.uasset
